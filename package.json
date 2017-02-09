@@ -1,0 +1,33 @@
+{
+  "name": "appc-license",
+  "version": "1.0.0",
+  "description": "A cli tool to format the license into CSV",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "appc-license": "index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://gist.github.com/5599af06731ce4636c157855b02e08d4.git"
+  },
+  "keywords": [
+    "CLI"
+  ],
+  "author": "ashcoding <ashcoding@outlook.com>",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://gist.github.com/5599af06731ce4636c157855b02e08d4"
+  },
+  "homepage": "https://gist.github.com/5599af06731ce4636c157855b02e08d4",
+  "dependencies": {
+    "commander": "^2.9.0",
+    "fs": "0.0.2",
+    "license-checker": "^5.1.0",
+    "mkdirp": "^0.5.1",
+    "path": "^0.12.7",
+    "underscore": "^1.8.3"
+  }
+}

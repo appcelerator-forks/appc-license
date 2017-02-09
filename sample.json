@@ -1,0 +1,36 @@
+{
+    "abbrev@1.0.7": {
+        "licenses": "ISC",
+        "repository": "https://github.com/isaacs/abbrev-js",
+        "licenseFile": "/Users/ash/git_repo/5599af06731ce4636c157855b02e08d4/node_modules/abbrev/LICENSE",
+        "codeType": "Java",
+        "modified": "N",
+        "natureOfModifications": "",
+        "libraryLinked": "static",
+        "passThru": "N",
+        "notesUse": ""
+    },
+    "wrappy@1.0.1": {
+        "licenses": "ISC",
+        "repository": "https://github.com/npm/wrappy",
+        "licenseFile": "/Users/ash/git_repo/5599af06731ce4636c157855b02e08d4/node_modules/wrappy/LICENSE",
+        "codeType": "Java",
+        "modified": "N",
+        "natureOfModifications": "",
+        "libraryLinked": "non-static",
+        "passThru": "N",
+        "notesUse": ""
+    },
+    "wrappyss@1.0.3": {
+        "licenses": "ISC",
+        "repository": "https://github.com/npm/wrappy",
+        "licenseFile": "/Users/ash/git_repo/5599af06731ce4636c157855b02e08d4/node_modules/wrappy/LICENSE",
+        "codeType": "TestType",
+        "modified": "Maybe",
+        "natureOfModifications": "",
+        "libraryLinked": "super-static",
+        "passThru": "Maybe",
+        "notesUse": "This is test data."
+    },"wrappysss@1.0.4": {
+    }
+}
