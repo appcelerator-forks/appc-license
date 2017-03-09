@@ -1,10 +1,10 @@
 # Appc License Generator #
 
-This is to generate the license in csv format.
+This is to generate the license in CSV format.
 
 ## Install
 ```bash
-npm install -g gist:5599af06731ce4636c157855b02e08d4
+npm install -g appc-license
 ```
 
 ## Uninstall
@@ -20,7 +20,7 @@ Options:
 
   -h, --help           output usage information
   -V, --version        output the version number
-  -i, --in <filename>  merge <filename> json in the final output
+  -i, --in <filename>  merge <filename> JSON in the final output
   -s, --setjson        sets output as JSON
 ```
 
@@ -29,7 +29,7 @@ Options:
 appc-license -i input.json > output.csv
 ```
 Doing this will merge the output with the input file. How it works is it reads
-the json file and merges the json to the final output json. For any conflicts,
+the JSON file and merges the JSON to the final output JSON. For any conflicts,
 the input file will have the final say.
 
 ## Example Usage with an output of JSON
