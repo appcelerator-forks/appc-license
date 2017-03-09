@@ -8,7 +8,7 @@ var _ = require('underscore');
 
 var main = function() {
     program
-        .version('1.0.0')
+        .version('1.0.2')
         .option('-i, --in <filename>', 'merge <filename> json in the final output')
         .option('-s, --setjson', 'sets output as JSON')
         .parse(process.argv);

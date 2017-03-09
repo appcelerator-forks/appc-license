@@ -1,7 +1,7 @@
 {
   "name": "appc-license",
-  "version": "1.0.1",
-  "description": "A cli tool to format the license into CSV",
+  "version": "1.0.2",
+  "description": "A CLI tool to format the license into CSV",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
